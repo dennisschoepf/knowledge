@@ -1,3 +1,7 @@
+---
+Tags: #hci #datascience #physicalization
+---
+
 # Data Physicalization
 
 - Curating data https://dl.acm.org/doi/pdf/10.1145/3393914.3395892

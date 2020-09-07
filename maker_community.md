@@ -1,3 +1,7 @@
+---
+Tags: #maker #collections #lasercut #3dprinting
+---
+
 # Maker Community
 
 ## Collections & Instructions

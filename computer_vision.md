@@ -1,3 +1,7 @@
+---
+Tags: #hci #compsci #objectdetection #marker #tracking
+---
+
 # Computer vision
 
 ## Frameworks
