@@ -1,3 +1,7 @@
+---
+Tags: #hci #interaction #multimodal
+---
+
 # Special Interaction Modalities
 
 Following are rarely used or otherwise special interaction modalities that could be used in technological interactions in an [[hci]] context.
