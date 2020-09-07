@@ -11,3 +11,5 @@
 - Soft material robotics https://www.sciencedirect.com/science/article/pii/S0167779913000632
 - A-Line 4D Printing https://dl.acm.org/doi/pdf/10.1145/3290605.3300656
 - Natural Actuation https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2009.0003
+- Qualitative Research
+- Quantitative Research
