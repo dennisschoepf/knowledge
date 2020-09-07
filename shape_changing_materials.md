@@ -4,6 +4,8 @@ Tags: #material #materialscience #shapechange
 
 # Shape Changing Materials
 
+Shape changing materials (also sometimes 4D-Material produced by [[4D_printing]]) are defined as three-dimensional materials that change their shape over time (= fourth dimension).
+
 ## Wood
 
 ### Activation Techniques
