@@ -6,7 +6,7 @@ Tags: #4dprint #shapechange
 
 ## Definition
 
-Recent research conducted at the SAL includes 4D printing, which consists of 3D-printed multimaterial polymer structures that change shape and physical property over time. `Correa, David, et al. "3D-Printed Wood: Programming hygroscopic material transformations." 3D Printing and Additive Manufacturing 2.3 (2015): 106-116.`
+Recent research conducted at the SAL includes 4D pricannot open source file "Arduino.h"nting, which consists of 3D-printed multimaterial polymer structures that change shape and physical property over time. `Correa, David, et al. "3D-Printed Wood: Programming hygroscopic material transformations." 3D Printing and Additive Manufacturing 2.3 (2015): 106-116.`
 
 ## Types
 
