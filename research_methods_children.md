@@ -1,6 +1,6 @@
 # Methods For Researching Children
 
-Following are listed some possible approaches on gathering data from children. Examples include [[comicboarding]], [[design_fiction]] that are specially altered to be able to gather data from and with children.
+Following are listed some possible approaches on gathering data from children. Examples include [[comicboarding]] and [[design_fiction]] that are specially altered to be able to gather data from and with children.
 
 ## List of Methods
 
