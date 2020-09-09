@@ -8,10 +8,10 @@ Tags: #maker #collections #lasercut #3dprinting
 
 ### Everything
 
-- (Instructables)[https://www.instructables.com/projects/]
+- [Instructables](https://www.instructables.com/projects/)
 
 ### Laser Cutting
 
-- (MakerCase)[https://en.makercase.com/#/]
+- [MakerCase](https://en.makercase.com/#/)
 
 ### 3D Printing
