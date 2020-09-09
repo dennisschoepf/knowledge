@@ -6,7 +6,11 @@ Tags: #hci #compsci #objectdetection #marker #tracking
 
 ## Frameworks
 
+### General computer vision
+
+- [OpenCV](https://opencv.org/)
+
 ### Marker Tracking
 
 - Reactivision
-- Overview https://www.slideshare.net/JensGrubert/a-short-introduction-to-computer-visionbased-marker-tracking
+- [Introduction to vision-based marker tracking](https://www.slideshare.net/JensGrubert/a-short-introduction-to-computer-visionbased-marker-tracking)
