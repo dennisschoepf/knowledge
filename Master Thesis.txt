@@ -1,0 +1,31 @@
+# Master Thesis
+
+## Possible Ideas
+
+### Capture & share knowledge in situ
+
+- The internet / Data / Knowledge base of the world is unbelievably huge
+- That makes it difficult to combine knowledge & theories or e.g. get an overview of what is out there, how one can find what one is looking for
+- Problems: So much knowledge is residing on little islands where only very few people know their way → No exchange between different forms of knowledge
+- How could one solve that?
+- Can Brain-Computer-Interfaces help?
+- Which role does archiving play (Y.N. Harari - Kurze Geschichte der Menschheit) → How can one reduce the need for costly archiving
+- Can haptic interfaces help?
+- Which software interfaces could help?
+- How could that redefine knowledge in the society [Reading Prep Notes](https://www.notion.so/Reading-Prep-Notes-b1ba52755c224dcfbadaedc864617ccd)
+- Knowledge Trails (Memex) [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
+- Persist shared knowledge from the moment to allow for deeper gain in knowledge and long-term teaching
+
+### Data transfer through unusual material
+
+- Possible materials: Gravitation, Vibration
+- Maybe [[ephemeral_interfaces]]
+
+### Maker movement as means of local production
+
+- Regional, sustainable means of making without global consumption
+
+### Other ideas, keywords, etc ...
+
+- Humane Technology
+- (Long Distance) Anti Loneliness Game similar to [Kind Words](https://popcannibal.com/kindwords/)
