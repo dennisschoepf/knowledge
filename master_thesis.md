@@ -15,6 +15,8 @@
 - How could that redefine knowledge in the society [Reading Prep Notes](https://www.notion.so/Reading-Prep-Notes-b1ba52755c224dcfbadaedc864617ccd)
 - Knowledge Trails (Memex) [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 - Persist shared knowledge from the moment to allow for deeper gain in knowledge and long-term teaching
+- Setting aside the primary subject, this is an excellent observation:
+> What I find however is that there are a base of unspoken intuitions that underlie expert understanding of a field, that are never directly stated in the literature, because they can’t be easily proved with the rigor that the literature demands. And as a result, the insights exist only in conversation and subtext, which make them inaccessible to the casual reader. https://news.ycombinator.com/item?id=24835336
 
 #### Further points of interest
 
