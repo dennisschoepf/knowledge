@@ -15,6 +15,7 @@
 - How could that redefine knowledge in the society [Reading Prep Notes](https://www.notion.so/Reading-Prep-Notes-b1ba52755c224dcfbadaedc864617ccd)
 - Knowledge Trails (Memex) [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 - Persist shared knowledge from the moment to allow for deeper gain in knowledge and long-term teaching
+- Knowledge Grap (Gartner Hype 2019)
 
 #### Further points of interest
 
